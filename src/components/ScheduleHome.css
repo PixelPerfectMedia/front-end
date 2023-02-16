@@ -1,0 +1,7 @@
+.card_field {
+  display: flex;
+}
+.card_card {
+  width: 100px;
+  height: 100px;
+}
